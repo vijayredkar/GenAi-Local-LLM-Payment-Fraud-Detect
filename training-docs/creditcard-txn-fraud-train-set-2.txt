@@ -1,7 +1,0 @@
-Fraud pattern 1 is transaction carried out at a location outside the card owner's country.
-Fraud pattern 2 is transaction carried out at a time that is way beyond regular business hours.
-Fraud pattern 3 is purchase with an amount more than 25 percent of the amount spent on similar transactions.
-Fraud pattern 4 is purchase of the same item more than 10 times on the same day.
-Fraud pattern 5 is transaction is unsuccessful more than 5 times for purchases on the same day.
-Fraud pattern 6 is transaction with shipping address that is different than the card owner's registered address.
-Fraud pattern 7 is more than 3 high value transactions where amount exceeds USD 5000.
