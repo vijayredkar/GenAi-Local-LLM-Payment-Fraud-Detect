@@ -1,5 +1,3 @@
-# GenAi with Local LLM and Java to detect fraud in payment transactions
-
 1. GenAi Local LLM Ollama with Vector DB and Java to detect fraud in payment transactions.
 2. Problem statement & solution approach - https://vijayredkar.medium.com/banknext-case-study-ai-llm-for-credit-card-fraud-detection-95af89dbbf5b
 3. GenAi Local LLM Architecture -
